@@ -1,6 +1,6 @@
-# 🎵 Audio Feature Analysis for Music Genre Classification
+#  Audio Feature Analysis for Music Genre Classification
 
-## 🧾 Project Overview
+## Project Overview
 
 This project explores the use of machine learning and deep learning algorithms to classify music tracks into genres based on their audio features. Using the **Spotify Tracks Dataset**, which spans **125 music genres**, this study addresses the challenge of genre classification — a complex task due to the subjective and overlapping nature of musical categories.
 
@@ -8,7 +8,7 @@ The ultimate goal is to understand how well audio features can predict genre, an
 
 ---
 
-## 👩‍💻Work on the Project
+## Work on the Project
 
 **In this Project** I handled every aspect of the workflow, from data preprocessing to model training and evaluation. Specifically, I:
 
@@ -23,7 +23,7 @@ The ultimate goal is to understand how well audio features can predict genre, an
 
 ---
 
-## 🎯 Project Goals
+##  Project Goals
 
 - Apply supervised learning to classify songs based on audio features
 - Evaluate model performance on a **multi-class**, **imbalanced** dataset
@@ -33,7 +33,7 @@ The ultimate goal is to understand how well audio features can predict genre, an
 ---
 
 
-## 📈 Key Findings
+## Key Findings
 
 **Modest Accuracy Due to Genre Overlap**
 - Despite using powerful models, classification accuracy remained modest (e.g., ~60–65%), primarily because many genres had overlapping audio features.
